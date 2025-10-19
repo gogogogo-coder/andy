@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "bookings": "Réservations",
+    "messages": "Messages",
+    "profile": "Profil"
+  },
+  "home": {
+    "title": "Trouver un Pro",
+    "subtitle": "Sélectionnez un service ou touchez une épingle",
+    "allProfessionals": "Tous les Professionnels"
+  },
+  "bookings": {
+    "title": "Mes Réservations",
+    "active": "Actives",
+    "completed": "Terminées",
+    "noActive": "Aucune réservation active.",
+    "noCompleted": "Aucune réservation terminée.",
+    "trackPrompt": "Appuyez pour suivre le professionnel",
+    "dateLabel": "Date",
+    "timeLabel": "Heure"
+  },
+  "profile": {
+    "edit": "Modifier le Profil",
+    "payment": "Moyens de Paiement",
+    "settings": "Paramètres",
+    "help": "Aide et Support",
+    "logout": "Se Déconnecter",
+    "language": "Langue"
+  },
+  "tracking": {
+    "back": "Retour",
+    "title": "Suivi de votre Pro",
+    "eta": "Arrivée Prévue",
+    "minutes": "min"
+  },
+  "details": {
+    "distanceAway": "à {{distance}} km",
+    "bookNow": "Réserver pour ${{rate}}/h"
+  },
+  "service": {
+    "Plumber": "Plombier",
+    "Electrician": "Électricien",
+    "Cleaner": "Nettoyeur",
+    "Carpenter": "Charpentier",
+    "Mechanic": "Mécanicien",
+    "Painter": "Peintre",
+    "AIAssistant": "Assistant IA"
+  },
+  "status": {
+    "Pending": "En attente",
+    "Confirmed": "Confirmée",
+    "InProgress": "En cours",
+    "Completed": "Terminée",
+    "Cancelled": "Annulée"
+  }
+}

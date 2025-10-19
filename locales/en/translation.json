@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "home": "Home",
+    "bookings": "Bookings",
+    "messages": "Messages",
+    "profile": "Profile"
+  },
+  "home": {
+    "title": "Find a Pro",
+    "subtitle": "Select a service or tap a pin",
+    "allProfessionals": "All Professionals"
+  },
+  "bookings": {
+    "title": "My Bookings",
+    "active": "Active",
+    "completed": "Completed",
+    "noActive": "No active bookings.",
+    "noCompleted": "No completed bookings.",
+    "trackPrompt": "Tap to track professional",
+    "dateLabel": "Date",
+    "timeLabel": "Time"
+  },
+  "profile": {
+    "edit": "Edit Profile",
+    "payment": "Payment Methods",
+    "settings": "Settings",
+    "help": "Help & Support",
+    "logout": "Log Out",
+    "language": "Language"
+  },
+  "tracking": {
+    "back": "Back",
+    "title": "Tracking Your Pro",
+    "eta": "Estimated Arrival",
+    "minutes": "min"
+  },
+  "details": {
+    "distanceAway": "{{distance}} km away",
+    "bookNow": "Book Now for ${{rate}}/hr"
+  },
+  "service": {
+    "Plumber": "Plumber",
+    "Electrician": "Electrician",
+    "Cleaner": "Cleaner",
+    "Carpenter": "Carpenter",
+    "Mechanic": "Mechanic",
+    "Painter": "Painter",
+    "AIAssistant": "AI Assistant"
+  },
+  "status": {
+    "Pending": "Pending",
+    "Confirmed": "Confirmed",
+    "InProgress": "In Progress",
+    "Completed": "Completed",
+    "Cancelled": "Cancelled"
+  }
+}

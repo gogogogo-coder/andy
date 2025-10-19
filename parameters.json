@@ -1,0 +1,14 @@
+{
+  "mongodb_uri": "mongodb+srv://user:password@cluster0.mongodb.net/?retryWrites=true&w=majority",
+  "database_name": "prolink_db",
+  "collections": {
+    "users": "users",
+    "professionals": "professionals",
+    "bookings": "bookings",
+    "messages": "messages",
+    "reviews": "reviews_collection",
+    "payments": "payments_collection",
+    "categories": "service_categories",
+    "translations": "ui_translations"
+  }
+}
